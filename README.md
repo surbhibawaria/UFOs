@@ -14,17 +14,19 @@ To provide a more in-depth analysis of UFO sightings by allowing users to filter
 
 ### The Webpage
 
+Upon landing on the webpage, visitor will see the following page:
 
 <img width="1360" alt="UFO_webpage" src="https://user-images.githubusercontent.com/95826875/157372458-7fcb0820-fc64-4072-b1e5-35cc9773033f.png">
 
 ### The Filters
-
 
 Using JavaScript and HTML, the code from the module is modified in the index.html file to create more table filters. In addition to the date filter created in this module, filters for the city, state, country, and shape are added further.
 
 <img width="1371" alt="UFO_sightings" src="https://user-images.githubusercontent.com/95826875/157372127-21a7468c-d304-447a-9a35-b3694cf203d8.png">
 
 #### Search Criterias
+
+Visitor will type the placeholder elements as the filters in lower case letter without any spaces at the end of the text and hit enter. This will return the filtered matches. To reset the filter sriteria, visitor can click the 'UFO Sightings' at the top left corner of the website.
 
 _Search by City_
 
