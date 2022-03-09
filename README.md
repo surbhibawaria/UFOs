@@ -26,7 +26,7 @@ Using JavaScript and HTML, the code from the module is modified in the index.htm
 
 #### Search Criterias
 
-Visitor will type the placeholder elements as the filters in lower case letter without any spaces at the end of the text and hit enter. This will return the filtered matches. To reset the filter sriteria, visitor can click the 'UFO Sightings' at the top left corner of the website.
+Visitor will type the placeholder elements as the filters in lower case letter without any spaces at the end of the text and hit enter. This will return the filtered matches. To reset the filters, visitor can click the 'UFO Sightings' at the top left corner of the website.
 
 _Search by City_
 
@@ -47,4 +47,4 @@ _Search by City, Country and Shape_
 
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
