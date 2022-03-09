@@ -46,7 +46,7 @@ _Search by City, Country and Shape_
 
 ## Summary
 
-### Drawbacks
+### Drawbacks of this Webpage
 
 There are few drawbacks with this design:
 
@@ -58,7 +58,7 @@ There are few drawbacks with this design:
 
 4. The data is not updated.
 
-### Recommendations for further development
+### Recommendations for further Development
 
 1. Adding functionality to accept 'upper cases' and to trim extra spaces from the entered data.
 
