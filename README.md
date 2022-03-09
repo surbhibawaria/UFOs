@@ -8,7 +8,7 @@ McMinnville is famous for its sightings and even has an annual gathering of UFO 
 
 ### Purpose
 
-To provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, to add table filters for the city, state, country, and shape.
+The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, to add table filters for the city, state, country, and shape.
 
 ## Results
 
