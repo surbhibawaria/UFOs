@@ -56,7 +56,17 @@ There are few drawbacks with this design:
 
 3. There's no click button, the data will be filtered on hiting enter.
 
+4. The data is not updated.
+
 ### Recommendations for further development
+
+1. Adding functionality to accept 'upper cases' and to trim extra spaces from the entered data.
+
+2. Adding functionality to pull latest data from live sources.
+
+3. Adding features like click button, sorting filters to make page more interactive.
+
+4. Adding functionality to explore a date range instead of sticking to a singular date. 
 
 
 
