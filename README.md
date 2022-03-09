@@ -44,7 +44,19 @@ _Search by City, Country and Shape_
 
 <img width="1314" alt="Screen Shot 2022-03-08 at 11 43 35 PM" src="https://user-images.githubusercontent.com/95826875/157374321-1720e558-6b30-40f5-94bb-76dc62b34911.png">
 
-
-
 ## Summary
+
+### Drawbacks
+
+There are few drawbacks with this design:
+
+1. The search elements are 'case-sensitive'. the filters will not work if the input is not given exactly how they are in the data.
+
+2. User must know specific city, state, country, and shape to filter the data.
+
+3. There's no click button, the data will be filtered on hiting enter.
+
+### Recommendations for further development
+
+
 
