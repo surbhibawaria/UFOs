@@ -11,7 +11,36 @@ McMinnville is famous for its sightings and even has an annual gathering of UFO 
 To provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, to add table filters for the city, state, country, and shape.
 
 ## Results
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+
+### The Webpage
+
+
+<img width="1360" alt="UFO_webpage" src="https://user-images.githubusercontent.com/95826875/157372458-7fcb0820-fc64-4072-b1e5-35cc9773033f.png">
+
+### The Filters
+
+
+Using JavaScript and HTML, the code from the module is modified in the index.html file to create more table filters. In addition to the date filter created in this module, filters for the city, state, country, and shape are added further.
+
+<img width="1371" alt="UFO_sightings" src="https://user-images.githubusercontent.com/95826875/157372127-21a7468c-d304-447a-9a35-b3694cf203d8.png">
+
+#### Search Criterias
+
+_Search by City_
+
+<img width="1323" alt="Screen Shot 2022-03-08 at 11 36 10 PM" src="https://user-images.githubusercontent.com/95826875/157373890-4fe7549a-8b67-4cef-8277-82af45d5d082.png">
+
+_Search by State_
+
+<img width="1318" alt="Screen Shot 2022-03-08 at 11 36 36 PM" src="https://user-images.githubusercontent.com/95826875/157373971-1c306b26-09e7-4641-879b-de5381d5e1b9.png">
+
+_Search by City and Country_
+
+<img width="1318" alt="Screen Shot 2022-03-08 at 11 37 11 PM" src="https://user-images.githubusercontent.com/95826875/157373989-d9303dc1-48dd-407c-ae95-d1f852aaa4c3.png">
+
+_Search by City, Country and Shape_
+
+<img width="1322" alt="Screen Shot 2022-03-08 at 11 37 49 PM" src="https://user-images.githubusercontent.com/95826875/157374171-29411f9d-1290-4160-aa06-68a34a63f378.png">
 
 
 ## Summary
